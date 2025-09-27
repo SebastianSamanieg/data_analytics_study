@@ -1,0 +1,20 @@
+2025-05-09 19:07:39,019 - INFO - Iniciando conexión con Outlook
+2025-05-09 19:07:39,049 - INFO - Accediendo a la bandeja de joan.samaniego@telefonica.com
+2025-05-09 19:07:39,065 - INFO - Bandeja de entrada encontrada
+2025-05-09 19:07:39,076 - INFO - Mensajes obtenidos y ordenados
+2025-05-09 19:07:39,076 - INFO - Iniciando extracción de correos
+2025-05-09 19:07:39,078 - INFO - Total de mensajes encontrados: 228
+2025-05-09 19:07:39,155 - INFO - Procesado correo 1: RE: Cambios a ejecutar del 11 de Mayo
+2025-05-09 19:07:39,182 - INFO - Procesado correo 2: RE: Cambios a ejecutar del 10 de Mayo
+2025-05-09 19:07:39,206 - INFO - Procesado correo 3: RE: Cambios a ejecutar del 09 de Mayo
+2025-05-09 19:07:39,284 - INFO - Procesado correo 4: Talleres gratuitos: Domina las tecnologías de AWS y sus últimas soluciones de Inteligencia Artificial
+2025-05-09 19:07:39,308 - INFO - Procesado correo 5: Cambios a ejecutar del 11 de Mayo
+2025-05-09 19:07:39,331 - INFO - Procesado correo 6: Cambios a ejecutar del 10 de Mayo
+2025-05-09 19:07:39,357 - INFO - Procesado correo 7: Cambios a ejecutar del 09 de Mayo
+2025-05-09 19:07:39,381 - INFO - Procesado correo 8: DERLY and Piedad ha enviado 3 mensajes a su chat
+2025-05-09 19:07:39,408 - INFO - Procesado correo 9: RE: CAS2844183 - Movistar Colombia - CO - PCO -  Error en mapeo base de datos variables P.Barrio 
+2025-05-09 19:07:39,436 - INFO - Procesado correo 10: RE: MOVISTAR TOTAL
+2025-05-09 19:07:39,436 - INFO - Alcanzado límite de 10 correos
+2025-05-09 19:07:39,436 - INFO - Se extrajeron datos de 10 correos
+2025-05-09 19:07:39,438 - INFO - Archivo JSON guardado exitosamente en: C:\Users\JSSAMANIEGPO\PycharmProjects\etl-exercices\data\correos_outlook.json
+2025-05-09 19:07:39,439 - INFO - Tamaño del archivo: 98192 bytes

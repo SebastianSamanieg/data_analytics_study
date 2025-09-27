@@ -1,0 +1,35 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Variables de entorno
+.env
+config/.env
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de compilación
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Otros posibles
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
